@@ -21,7 +21,7 @@ html {
 .hero {
   height: 100vh;
   background: linear-gradient(rgba(10,31,68,0.85), rgba(10,31,68,0.85)),
- url('../images/cyber.jpg') center/cover no-repeat;
+ url('images/cyber.jpg') center/cover no-repeat;
   color: #fff;
 }
 .hero-content {
